@@ -1,0 +1,6 @@
+{
+  "name": "Générateur de Titres SEO",
+  "description": "Générez instantanément des titres SEO percutants et optimisés à partir d'un mot-clé avec Google Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
